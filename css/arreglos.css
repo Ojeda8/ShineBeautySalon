@@ -1,0 +1,128 @@
+Body {
+background:#0B2F3A;
+
+}
+
+
+.logo {
+  width: 800px;
+  height: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-color: gray;
+  display: block;
+  border-width:
+
+}
+
+
+h1 {
+  color:white;
+
+}
+
+.redes {
+  color:pink;
+}
+
+ footer {
+  background-color: #40E0D0;
+  padding: 10px;
+}
+
+
+
+#navigator ul{
+  background-color: #00CED1;
+  font-size: 18px;
+  border-style: solid;
+  border-color: gray;
+  float:left;
+  padding: 12px;
+   
+
+
+}
+
+#navigator ul li {
+  list-style: none;
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+
+
+
+}
+ #navigator ul li a {
+  color: black;
+  text-decoration: none;
+
+}
+
+.about {
+color:purple;
+font-family: sans-serif;
+font-size: 20px;
+ position: relative; left:90px; top: 15px;
+
+
+}
+
+#contenedor{color: white;
+  margin: 30px 200px;
+  font-size: 20px;
+}
+
+ form {
+   margin: 20px 200px;
+   padding:30px;
+     padding-top: 5px;
+display: inline-block;
+font-family:monospace ;
+font-size: 20;
+border: solid;
+border-color: gray;
+border-radius: 4px;
+background-color: #EAF0EF;
+}
+
+.p1 {
+margin:auto;
+border-radius: 5px;
+width: 650px;
+border: solid;
+border-color: gray;
+background-color: white;
+
+}
+
+
+
+ul {
+  list-style: none;}
+
+a {
+  font-size: 20px;
+}
+
+h2 {
+  color:purple;
+}
+
+.p2{
+
+  color:black;
+  font-size: 18px;
+}
+
+.boton{
+  border-style: solid;
+  border-color: purple;
+  background-color: purple;
+  font-size: 20px;
+  display: inline-block;
+  border-radius: 8px;
+  margin: 3%;
+
+}
+
